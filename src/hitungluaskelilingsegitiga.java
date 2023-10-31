@@ -41,5 +41,7 @@ public class hitungluaskelilingsegitiga {
 
         System.out.println("Luas segitiga: " + luas);
         System.out.println("Keliling segitiga: " + keliling);
+
+        System.out.println(".");
     }
 }
